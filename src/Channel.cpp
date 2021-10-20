@@ -52,7 +52,6 @@
 #include "SimpleAmqpClient/AmqpLibraryException.h"
 #include "SimpleAmqpClient/AmqpResponseLibraryException.h"
 #include "SimpleAmqpClient/BadUriException.h"
-#include "SimpleAmqpClient/Bytes.h"
 #include "SimpleAmqpClient/Channel.h"
 #include "SimpleAmqpClient/ChannelImpl.h"
 #include "SimpleAmqpClient/ConsumerCancelledException.h"

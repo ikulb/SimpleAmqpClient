@@ -43,6 +43,7 @@
 #include "SimpleAmqpClient/Envelope.h"
 #include "SimpleAmqpClient/Table.h"
 #include "SimpleAmqpClient/Util.h"
+#include "SimpleAmqpClient/Bytes.h"
 
 #ifdef _MSC_VER
 #pragma warning(push)

@@ -206,6 +206,7 @@ install(FILES
     src/SimpleAmqpClient/AmqpResponseLibraryException.h
     src/SimpleAmqpClient/BadUriException.h
     src/SimpleAmqpClient/BasicMessage.h
+    src/SimpleAmqpClient/Bytes.h
     src/SimpleAmqpClient/Channel.h
     src/SimpleAmqpClient/ConnectionClosedException.h
     src/SimpleAmqpClient/ConsumerCancelledException.h
