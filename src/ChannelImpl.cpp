@@ -54,7 +54,7 @@
 #include <boost/bind.hpp>
 #include <boost/lexical_cast.hpp>
 
-#define BROKER_HEARTBEAT 0
+#define BROKER_HEARTBEAT 60
 
 namespace AmqpClient {
 
